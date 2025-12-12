@@ -1,2 +1,13 @@
-do code blocks and images  tables 
-collapsible sections and other tools 
+#  **page3.md - Code Blocks, Images, Tables and more**
+
+---
+
+## Code Blocks
+
+tripple back ticks allows for multi-Line Code
+
+'''markdown
+'''python 
+print(Hellow, World!")
+'''python
+'''markdown
