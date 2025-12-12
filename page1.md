@@ -22,13 +22,13 @@ Markdown is mostly used for
 
 ## Basics 
 
-###Headings
+### Headings
 
 the use of '#' symbols produces different types of headings this is done by adding 
 
 # Heading1 = '#'
 ## Heading 2 = '##'
-###Heading 3 = '###'
+### Heading 3 = '###'
 
 Paragraphs = just regular typing 
 as shown here there is no need for any symbols infront of. 
