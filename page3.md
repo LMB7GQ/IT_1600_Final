@@ -70,3 +70,4 @@ to use this
 </details>
 ```
 
+[ Back Page 2 ](page2.md) | [ Back ReadME ](README.md)
