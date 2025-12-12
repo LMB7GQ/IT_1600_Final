@@ -25,7 +25,7 @@ Example: `console.log("Hello!")`
 ## Images
 
 to place images use 
-\ ![Dog Image](https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg)\
+``` ![Dog Image](https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg)\ ```
 
  ### image
  ![Dog Image](https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg)
