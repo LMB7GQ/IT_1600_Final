@@ -14,3 +14,6 @@ print(Hellow, World!")
 
 ```python
 print("Hello, Markdown!")
+
+Inline code uses backticks:  
+Example: `console.log("Hello!")`
