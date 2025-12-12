@@ -14,4 +14,3 @@ markdown'''
 
 '''python
 print("Hello, World!")
-python'''
