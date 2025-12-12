@@ -51,4 +51,22 @@ to use this
 
 ## Quotes
 > This is a quote.
+```
+> This is a quote.
+```
+
+## Collapsible Sections 
+<details>
+  <summary>Click to expand</summary>
+  
+  Hidden content here!
+</details>
+
+```
+<details>
+  <summary>Click to expand</summary>
+  
+  Hidden content here!
+</details>
+```
 
