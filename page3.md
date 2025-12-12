@@ -31,3 +31,19 @@ to place images use
  ![Dog Image](https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg)
 ---
 
+## Tables
+
+to use this
+
+| Name | Age | City |
+|------|-----|------|
+| name1 | 20 | NewYork |
+| name2 | 22 | Chicago |
+
+
+```
+| Name | Age | City |
+|------|-----|------|
+| name1 | 20 | Columbia |
+| name2 | 22 | Chicago |
+```
